@@ -1,0 +1,36 @@
+{
+  "type": "m",
+  "category": {
+    "商品": "goods",
+    "广告": "ad",
+    "优惠券": "coupon",
+    "导航": "nav",
+    "选项卡": "tab",
+    "标签": "tag",
+    "资讯组件": "info",
+    "预约组件": "reserve",
+    "营销组件": "marketing",
+    "轮播": "swiper",
+    "标题": "title",
+    "店铺": "shop"
+  },
+  "components": [{
+      "id": "Example",
+      "name": "示例",
+      "open": false,
+      "childrens": [{
+        "title": "示例组件",
+        "name": "Hello"
+      }]
+    },
+    {
+      "id": "Title",
+      "name": "标题",
+      "open": false,
+      "childrens": [{
+        "title": "标题组件",
+        "name": "Header"
+      }]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<view class="test">
+  <text>{{text}}{{x}}</text>
+  <tab myProperty="kkl" />
+  <no-props-comp usedProp="lk" />
+</view>
